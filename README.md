@@ -1,7 +1,7 @@
 # version2.1AkkaHttp
 #Output
 
-![8EA4F2A2-F73D-4763-BFCB-65FA71438B22_1_105_c](https://github.com/anuj-saklani100/version2.1AkkaHttp/assets/131871460/2f7a18a8-a832-43d8-be5d-a78e9aefc0f3)
+
 ![3F5CD6B4-1055-4828-88AE-1E4BF36D1A7C_1_105_c](https://github.com/anuj-saklani100/version2.1AkkaHttp/assets/131871460/fd7634b9-2c5d-47d4-b005-db46bbcfd9d1)
 ![8EA4F2A2-F73D-4763-BFCB-65FA71438B22_1_105_c](https://github.com/anuj-saklani100/version2.1AkkaHttp/assets/131871460/d8adba53-01e5-4b20-9f68-888260bbb007)
 ![57BCDE16-B6AC-490B-84A9-BF75026CF850](https://github.com/anuj-saklani100/version2.1AkkaHttp/assets/131871460/6cb9183d-013c-4339-91b5-fba250e95c4a)
